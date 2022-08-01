@@ -3,7 +3,7 @@
 Salva um arquivo Excel (XLS) com a lista de links presentes em uma URL
 
 getLinks(URL, depth, fileName)
-Ex: getLinks(“https://www.google.com.br”, 2, “linksEnttry.xls”)
+Ex: getLinks(“https://www.google.com.br”, 2, “linksGoogle.xls”)
 Descobre todos os links/urls contidos na página apontada por URL.
 
 Salva um arquivo Excel (XLS) com o nome passado em fileName
